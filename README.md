@@ -1,4 +1,4 @@
-# :man_technologist: Filipe Braida
+# :man_teacher: Filipe Braida
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/filipebraida)](https://github.com/filipebraida)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipe-braida-do-carmo-52321738)](https://www.linkedin.com/in/filipe-braida-do-carmo-52321738)
