@@ -1,16 +1,25 @@
-### Hi there 👋
+# :man_technologist: Filipe Braida
 
-<!--
-**filipebraida/filipebraida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/filipebraida)](https://github.com/filipebraida)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipe-braida-do-carmo-52321738)](https://www.linkedin.com/in/filipe-braida-do-carmo-52321738)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/filipebraida)](https://twitter.com/filipebraida)
 
-Here are some ideas to get you started:
+## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Filipe Braida!
+
+- :office_worker: Professor at **UFRRJ**
+- :man_scientist: Machine Learning, Recommender Systems, Fairness, Noise, ...
+- :man_technologist: Julia, JavaScript, TypeScript, Node.js, C, AdonisJS, ...
+
+> :octocat: [filipe.braida.com.br](http://filipe.braida.com.br)
+
+---
+
+<details>
+  <summary> <b> Do you want to know more about me? </b> <i> (Click here to expand) </i> </summary>
+  <br>
+
+  [![Github Status](https://github-readme-stats.vercel.app/api?username=filipebraida&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/filipebraida/filipebraida)
+
+</details>
