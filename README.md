@@ -1,4 +1,4 @@
-# :man_teacher: Filipe Braida
+# :man_office_worker: Filipe Braida
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/filipebraida)](https://github.com/filipebraida)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipe-braida-do-carmo-52321738)](https://www.linkedin.com/in/filipe-braida-do-carmo-52321738)
@@ -8,7 +8,7 @@
 
 My name is Filipe Braida!
 
-- :office_worker: Professor at **UFRRJ**
+- :man_teacher: Professor at **UFRRJ**
 - :man_scientist: Machine Learning, Recommender Systems, Fairness, Noise, ...
 - :man_technologist: Julia, JavaScript, TypeScript, Node.js, C, AdonisJS, ...
 
