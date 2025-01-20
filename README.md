@@ -9,8 +9,9 @@
 My name is Filipe Braida!
 
 - :man_teacher: Professor at **UFRRJ**
-- :man_scientist: Machine Learning, Recommender Systems, Fairness, Noise, ...
-- :man_technologist: Julia, JavaScript, TypeScript, Node.js, C, AdonisJS, ...
+- :man_scientist: Research: Machine Learning, Recommender Systems, LLM, Fairness, Noise and Data Science.
+- :mortar_board: Web Programming, Compilers, Programming Languages and Recommender Systems.
+- :man_technologist: Julia, JavaScript, TypeScript, Node.js, C, AdonisJS, React, Svelte, ...
 
 > :octocat: [filipe.braida.com.br](http://filipe.braida.com.br)
 
